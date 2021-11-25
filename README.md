@@ -11,10 +11,10 @@ this tool is for people that need to scan multiple subnet or ip in a fast way , 
 ## use 
 
 put your subnet or ip in the IP_list.txt file this way.
->x.x.x.x/xx
->x.x.x.x
->x.x.x.x/xx
-x.x.x.x/xx
+>x.x.x.x/xx \
+>x.x.x.x \
+>x.x.x.x/xx \
+x.x.x.x/xx \
 
 If you whant a fast representations use the -base flag.
 this will show you the service running and open port 
