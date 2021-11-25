@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Name: Harydan
+Name: tri0p
 Created on Mon Nov  8 10:45:21 2021
-@author: ecordier
+@author: Biero el corridor
 this script dont have the pretentions of replace shodan but this script give adventage like
     --run subnet scaning in mass from file
     -use audit script on targeted service or service verions
